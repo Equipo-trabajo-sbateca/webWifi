@@ -7,12 +7,12 @@ body{
 	width:1015px;
 	margin: 0 auto;
 	padding:0px;
+	
 }
 
 #header{
 	height:205px;
-	background-color:#FFF;
-	background-image:url(../img/headerbg.png);
+	background-color:#ad3333;
 	background-repeat:no-repeat;
 	width:100%;
 }
