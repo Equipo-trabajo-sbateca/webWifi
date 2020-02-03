@@ -1,7 +1,6 @@
 body{
 	background-image:url(../img/bgBody.png);
 	background-repeat:repeat-x;
-	background-color:#ad3333;
 }
 
 #contenedor{
@@ -13,7 +12,6 @@ body{
 
 #header{
 	height:205px;
-	background-color:#ad3333;
 	background-repeat:no-repeat;
 	width:100%;
 }
